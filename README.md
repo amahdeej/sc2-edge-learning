@@ -27,9 +27,9 @@ The second tuple contains the success of transmission ('rxSuccess'). If it is 1,
 
 Here are the links to the dataset files mentioned in the code (one pickle file for each scrimmage):
 
-[Scrimmage 4](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EY7bz-bskWlKpXkOQ0cTIh8BsBqaQLMqMNiUjbaIg_hkNg?e=1VJeqE) (573.7 MB) [Mirror](https://app.box.com/s/rpas6y19ret8mqbow558cyoawex0bb29)
+[Scrimmage 4 Edge Node Dataset](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EY7bz-bskWlKpXkOQ0cTIh8BsBqaQLMqMNiUjbaIg_hkNg?e=1VJeqE) (573.7 MB) [Mirror](https://app.box.com/s/rpas6y19ret8mqbow558cyoawex0bb29)
 
-[Scrimmage 5](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EW5CM_Q1tpdFoLmVp6L2D_kBt8BM6ME8AZOr7QKJr-IpoA?e=fZRjBP) (982 MB) [Mirror](https://app.box.com/s/z1dvzfy3x51obvh75mzru0hssc26pc5x)
+[Scrimmage 5 Edge Node Dataset](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EW5CM_Q1tpdFoLmVp6L2D_kBt8BM6ME8AZOr7QKJr-IpoA?e=fZRjBP) (982 MB) [Mirror](https://app.box.com/s/z1dvzfy3x51obvh75mzru0hssc26pc5x)
 
 A larger dataset containing complete information about each match is also available. Please refer to [SC2 Dataset Documentation](https://github.com/amahdeej/sc2-frame-error/blob/master/SC2_Dataset_Documentation.pdf) for more details regarding the structure of the full dataset.
 
