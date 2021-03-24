@@ -35,9 +35,4 @@ Here are the links to the dataset files mentioned in the code (one pickle file f
 
 [Scrimmage 5 Edge SMOTE Training Dataset](https://purdue0-my.sharepoint.com/:u:/g/personal/amahdeej_purdue_edu/EXunZUqirGtDpNmEd5U8f5MB2Nu2-ZCGVL5W5IDhHNR4Ew) (937.4 MB) [Mirror](https://app.box.com/s/cgv5yzgqe558q2j6gj9mlfpr29xrcwsv)
 
-A larger dataset containing complete information about each match is also available. Please refer to [SC2 Dataset Documentation](https://github.com/amahdeej/sc2-frame-error/blob/master/SC2_Dataset_Documentation.pdf) for more details regarding the structure of the full dataset.
-
-Here is the link to the full dataset (separate sqlite files for each match):
-
-[Full Dataset](https://purdue0-my.sharepoint.com/:f:/g/personal/amahdeej_purdue_edu/EszW2WkpQWBLg9Y6cYX1FtUBpEyMS5XpUuCUxa2vFj5nXg) (135.517 GB) [Mirror (Needs Access Request)](https://app.box.com/s/snwqgmzxljjsu129wampesj0xgn2ozpq)
-
+A larger dataset containing complete information about each match is also available [here](https://github.com/amahdeej/sc2-frame-error). Please refer to [SC2 Dataset Documentation](https://github.com/amahdeej/sc2-frame-error/blob/master/SC2_Dataset_Documentation.pdf) for more details regarding the structure of the dataset.
